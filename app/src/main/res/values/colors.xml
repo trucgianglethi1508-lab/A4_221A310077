@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="bmi_green">#4CAF50</color>
+    <color name="bmi_yellow">#FF9800</color>
+    <color name="bmi_red">#F44336</color>
+    <color name="bmi_blue">#2196F3</color>
+
+</resources>
